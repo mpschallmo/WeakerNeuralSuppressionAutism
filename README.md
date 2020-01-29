@@ -8,7 +8,7 @@ available on bioRxiv: https://doi.org/10.1101/645846
 - Tested on version R2016a
 
 2. Installation guide
-- Clone the repository
+- Clone or download the repository
 - If you wish to run the code outside of the directory, add the directory to your
   MATLAB paths
 - Time to install: < 1 min
