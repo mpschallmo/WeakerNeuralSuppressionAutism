@@ -1,6 +1,8 @@
 # WeakerNeuralSuppressionAutism
-Computational modeling code (MATLAB) for the paper "Weaker Neural Suppression in Autism" by Schallmo and colleagues,
-available on bioRxiv: https://doi.org/10.1101/645846
+Computational modeling code (MATLAB) for the paper "Weaker Neural Suppression in Autism" by Schallmo et al. (2020),
+Nature Communications, 11, 2675: https://www.nature.com/articles/s41467-020-16495-z
+
+Original preprint available on bioRxiv: https://doi.org/10.1101/645846
 
 1. System requirements
 - Requires MATLAB (The MathWorks), and the Statistics and Machine Learning Toolbox
